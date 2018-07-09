@@ -1,6 +1,7 @@
 
 $(document).ready(function () {
 
+ $('.autoplay').slick({
   dots: true,
   infinite: false,
   speed: 300,
